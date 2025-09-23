@@ -22,19 +22,17 @@ Assallamuallaikom, I'm Hamza ahmed!
 <hr>
 
 <pre>
-📚 I am studying Bachelors in Computer Science and information system in E-JUST
+📚 I am studying Bachelors in Computer Science and information system in Egyptian Japan University for Science and Technology
 📝 I have a strong interest in Cybersecurity and AI
 🔭 Working on network and cybersecurity track
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+🌟 Main languages: Python, Html, Css, C++
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="Hamzaa7med2023@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -154,6 +152,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 [Bouaskaoun](https://github.com/Bouaskaoun)
 
 Last Edited on: 19/07/2022
+
 
 
 
