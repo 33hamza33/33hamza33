@@ -15,17 +15,16 @@ Assallamuallaikom, I'm Hamza ahmed!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Cyber+Security+and+Network+Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student; Cyber+Security+and+Network+Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
+📚 I am studying Bachelors in Computer Science and information system in E-JUST
+📝 I have a strong interest in Cybersecurity and AI
+🔭 Working on network and cybersecurity track
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
@@ -155,6 +154,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 [Bouaskaoun](https://github.com/Bouaskaoun)
 
 Last Edited on: 19/07/2022
+
 
 
 
