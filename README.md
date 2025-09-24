@@ -89,17 +89,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 
 ## <a href="https://github.com/33hamza33"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
-<br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/33hamza33">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
-	</a>
-	<br/>
-</p>
-<br/>
+
 <!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
@@ -146,6 +136,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
   </td>
   </tr>
 </table>
+
 
 
 
