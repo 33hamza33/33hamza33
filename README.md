@@ -26,7 +26,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 📝 I have a strong interest in Cybersecurity and AI
 🔭 Working on network and cybersecurity track
 🌟 Main languages: Python, Html, Css, C++
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="New%20folder%20(2)/hamzaa%20cvvv.pdf" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -135,6 +135,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
   </td>
   </tr>
 </table>
+
 
 
 
