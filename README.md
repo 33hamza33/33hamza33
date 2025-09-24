@@ -110,16 +110,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
 
-**<a href="https://github.com/33hamza33"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
 
 
 
