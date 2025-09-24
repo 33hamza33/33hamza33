@@ -105,10 +105,9 @@ Assallamuallaikom, I'm Hamza ahmed!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:hamzaa7med2023gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
-
   </td>
   <td width="50%" valign="top">
+
 
 
 
