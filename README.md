@@ -1,20 +1,20 @@
 <h1 align="center">
 Assallamuallaikom, I'm Hamza ahmed!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/33hamza33" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/33hamza33">
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/33hamza33">
 		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/33hamza33">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student; Cyber+Security+and+Network+Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
@@ -43,8 +43,8 @@ Assallamuallaikom, I'm Hamza ahmed!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/33hamza33"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/33hamza33"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
@@ -87,13 +87,13 @@ Assallamuallaikom, I'm Hamza ahmed!
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/33hamza33"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/33hamza33">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
 	</a>
@@ -114,7 +114,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/33hamza33">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
 	</a>
 	<br/>
@@ -129,7 +129,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:hamzaa7med2023gmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
 
@@ -138,7 +138,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ## It's not perfect, isn't it?
 
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+**<a href="https://github.com/33hamza33"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
@@ -146,6 +146,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
   </td>
   </tr>
 </table>
+
 
 
 
