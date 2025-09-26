@@ -74,6 +74,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <p>
     <a href="https://github.com/33hamza33"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/33hamza33"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+	<a href="https://github.com/33hamza33"><img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white" height="40">
 </p>
 </br>
 
@@ -113,6 +114,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
