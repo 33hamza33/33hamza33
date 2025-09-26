@@ -6,7 +6,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 </h1>
 <p align="center">
 	<a href="https://github.com/33hamza33">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		
 	</a>
 	<a href="https://github.com/33hamza33">
 		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
@@ -107,6 +107,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
