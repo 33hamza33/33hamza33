@@ -44,7 +44,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <p>
     <a href="https://github.com/33hamza33"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/33hamza33"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-	 <a href="https://github.com/33hamza33"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2314354C.svg?logo=C++&logoColor=white"></a>
+	 <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"></a>
 	 <a href="https://github.com/33hamza33"><img alt="HTML" src="https://img.shields.io/badge/html%20-%2314354C.svg?logo=html&logoColor=black"></a>
 	 <a href="https://github.com/33hamza33"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2314354C.svg?logo=CSS&logoColor=red"></a>
 
@@ -107,6 +107,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
