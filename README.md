@@ -42,7 +42,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/33hamza33"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>></a>
     <a href="https://github.com/33hamza33"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 	 <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></a>
 	 <a href="https://github.com/33hamza33"><img alt="HTML" src="https://img.shields.io/badge/html%20-%2314354C.svg?logo=html&logoColor=black"></a>
@@ -107,6 +107,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
