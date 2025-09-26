@@ -37,13 +37,6 @@ Assallamuallaikom, I'm Hamza ahmed!
 	<a href="https://github.com/33hamza33"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## 🛠️ My Favorite Tools
-<p>
-	<a href="https://github.com/33hamza33"><img src="https://www.netacad.com/resources/lab-downloads" width="40" height="40">
-
-
-</p>
-
 ### 👨‍💻 Programming Languages
 
 <p>
@@ -114,6 +107,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
