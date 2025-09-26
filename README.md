@@ -42,11 +42,12 @@ Assallamuallaikom, I'm Hamza ahmed!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>></a>
-    <a href="https://github.com/33hamza33"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">></a>
+    <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></a>
 	 <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></a>
-	 <a href="https://github.com/33hamza33"><img alt="HTML" src="https://img.shields.io/badge/html%20-%2314354C.svg?logo=html&logoColor=black"></a>
-	 <a href="https://github.com/33hamza33"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%2314354C.svg?logo=CSS&logoColor=red"></a>
+	 <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"></a>
+	 <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40">
+</a>
 
 
 ### 🧰 Frameworks and Libraries
@@ -107,6 +108,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
