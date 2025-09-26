@@ -38,6 +38,10 @@ Assallamuallaikom, I'm Hamza ahmed!
 </p>
 
 ## 🛠️ My Favorite Tools
+<p>
+	<a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" height="40">
+
+</p>
 
 ### 👨‍💻 Programming Languages
 
@@ -108,6 +112,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
