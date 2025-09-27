@@ -83,13 +83,17 @@ Assallamuallaikom, I'm Hamza ahmed!
 
 <p align="center">
 	<a href="https://github.com/33hamza33">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
-	</a>
-	<br/>
+	## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=33hamza33&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=33hamza33&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,TeX,TSQL" height="180em"/>
+</p>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
 
 
 
