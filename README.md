@@ -4,7 +4,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-
+<br>
 <br/>
 <p align="center">
 	<a href="https://github.com/33hamza33">
@@ -100,6 +100,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
