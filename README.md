@@ -7,10 +7,11 @@ Assallamuallaikom, I'm Hamza ahmed!
 <br>
 <br/>
 <p align="center">
-	<a href="https://github.com/33hamza33">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student; Cyber+Security+and+Network+Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+  <a href="https://github.com/33hamza33">
+    <img src="https://readme-typing-svg.demolab.com?lines=Computer+Science+Student;Cyber+Security+and+Network+Engineer;Always+Learning+new+things&center=true&width=380&height=45">
+  </a>
 </p>
+
 
 <hr>
 
@@ -100,6 +101,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
   </td>
   <td width="50%" valign="top">
+
 
 
 
