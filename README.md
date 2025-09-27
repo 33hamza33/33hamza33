@@ -88,11 +88,25 @@ Assallamuallaikom, I'm Hamza ahmed!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=33hamza33&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=33hamza33&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,TeX,TSQL" height="180em"/>
+	## 📊 Language Usage
+
+| Language          | Usage   |
+|-------------------|---------|
+| Jupyter Notebook  | 98.43%  |
+| Python            | 0.24%   |
+| JavaScript        | 0.62%   |
+| HTML              | 0.34%   |
+| CSS               | 0.29%   |
+| TeX               | 0.06%   |
+| TSQL              | 0.01%   |
+| Procfile          | 0.00%   |
+
 </p>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
 
 
 
