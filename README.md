@@ -59,9 +59,9 @@ Assallamuallaikom, I'm Hamza ahmed!
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/33hamza33"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/33hamza33"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="https://github.com/33hamza33"><img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white" height="40">
+    <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
+    <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/"></a>
+	<a href="https://github.com/33hamza33"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-network-technology-flaticons-lineal-color-flat-icons.png" width="45" height="45" alt="Packet Tracer"/>
 </p>
 </br>
 
@@ -106,6 +106,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
 
 
 
