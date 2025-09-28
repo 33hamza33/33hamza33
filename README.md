@@ -27,7 +27,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 ## 🤝 Connect with me
 <p align="center">
 	<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hamzaa7med2023@gmail.com"><img img src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=black"/></a>
 	<a href="https://github.com/33hamza33"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="github"/></a>
 </p>
 
@@ -106,6 +106,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
 
 
 
