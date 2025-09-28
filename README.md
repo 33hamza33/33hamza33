@@ -27,8 +27,8 @@ Assallamuallaikom, I'm Hamza ahmed!
 ## 🤝 Connect with me
 <p align="center">
 	<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hamzaa7med2023@gmail.com"><img img src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/33hamza33"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+	<a href="https://github.com/33hamza33"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="github"/></a>
 </p>
 
 ### 👨‍💻 Programming Languages
@@ -106,6 +106,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
 
 
 
