@@ -61,7 +61,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <p>
     <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
     <a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/"></a>
-	<a href="https://github.com/33hamza33"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-network-technology-flaticons-lineal-color-flat-icons.png" width="45" height="45" alt="Packet Tracer"/>
+	<a href="https://github.com/33hamza33"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="45" height="45" alt="Cisco"/>
 </p>
 </br>
 
@@ -106,6 +106,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
 
 
 
