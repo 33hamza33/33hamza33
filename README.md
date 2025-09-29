@@ -20,7 +20,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 📝 I have a strong interest in Cybersecurity and AI
 🔭 Working on network and cybersecurity track
 🌟 Main languages: Python, Html, Css, C++
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="New%20folder%20(2)/hamzaa%20cvvv.pdf" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1aHpAzaOCra_5DxO7OLziL_VEe2MM3J4k/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -93,6 +93,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
 
 
 
