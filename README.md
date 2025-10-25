@@ -8,7 +8,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <br/>
 <p align="center">
   <a href="https://github.com/33hamza33">
-    <img src="https://readme-typing-svg.demolab.com?lines=Computer+Science+Student;Cyber+Security+and+Network+Engineer;Always+Learning+new+things&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.demolab.com?lines=Computer+Science+Student; Cyber+Security+and+Network+Engineer;Always+Learning+new+things&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -93,6 +93,7 @@ Assallamuallaikom, I'm Hamza ahmed!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
 
 
 
